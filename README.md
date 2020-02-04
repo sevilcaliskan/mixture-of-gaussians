@@ -1,3 +1,4 @@
 # mixture-of-gaussians
 Mixture of gaussians homework for machine learning course
-hw2q1 and hw2q2 files uses other functions and calculates the results
+
+For demonstration hw2q1 and hw2q2 files can be run on matlab after files.
